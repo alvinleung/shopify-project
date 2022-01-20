@@ -46,7 +46,7 @@ export default function Home() {
         <Page src="Embed - breakdown-1.svg" />
         <Page src="IDAGIO Extension - Highlights & Sidebard.svg">
           <VideoPlayer
-            src={"https://www.sfu.ca/~kkl64/videos/idagio/notion.mp4"}
+            src={"https://www.sfu.ca/~kkl64/videos/idagio/sidebar.mp4"}
             x={80}
             y={122}
             width={1203.62}

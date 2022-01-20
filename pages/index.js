@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="w-full h-screen">
+      <main className="w-full h-screen relative">
         <Page src="Title.svg" />
         <Page src="TOC.svg" />
         <Page src="Audience.svg" />

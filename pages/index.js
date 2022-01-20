@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
-import Page from "../component/Page";
-import VideoPlayer from "../component/VideoPlayer";
+import Page from "../components/Page";
+import VideoPlayer from "../components/VideoPlayer";
 
 export default function Home() {
   return (

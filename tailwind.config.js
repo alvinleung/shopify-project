@@ -1,12 +1,5 @@
 module.exports = {
-  // content: [
-  //   "./pages/**/*.{js,ts,jsx,tsx}",
-  //   "./components/**/*.{js,ts,jsx,tsx}",
-  // ],
-  // purge: [
-  //   "./src/pages/**/*.{js,ts,jsx,tsx}",
-  //   "./src/components/**/*.{js,ts,jsx,tsx}",
-  // ],
+  content: ["./pages/**/*.{html,js}", "./components/**/*.{html,js}"],
   theme: {
     extend: {
       colors: {

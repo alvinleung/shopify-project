@@ -18,6 +18,8 @@ export default function Home() {
         <Page src="Audience.svg" />
         <Page src="Problem Statement-1.svg" />
         <Page src="Problem Statement.svg" />
+        <Page src="literary-review.svg" />
+        <Page src="opportunity.svg" />
         <Page src="Proposal.svg" />
         <Page src="Proposal.svg">
           <VideoPlayer
@@ -75,6 +77,16 @@ export default function Home() {
           />
         </Page>
         <Page src="Conclusion.svg" />
+        <Page src="Appendix Cover.svg" />
+        <Page src="Recently Played.svg" />
+        <Page src="Intruisiveness.svg" />
+        <Page src="Extension as Discord Bot.svg" />
+        <Page src="Ambiguous Language-1.svg" />
+        <Page src="Ambiguous Language.svg" />
+        <Page src="Free vs. Premium.svg" />
+        <Page src="Assumig a New Organization Model.svg" />
+        <Page src="Resurfacing Pieces.svg" />
+        <Page src="Light and Dark Modes.svg" />
       </main>
     </div>
   );
